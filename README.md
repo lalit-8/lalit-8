@@ -6,7 +6,6 @@
   <summary><b>Where to find me</b></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/lalit-8)
-<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in//)-->
 
 </details>
 
