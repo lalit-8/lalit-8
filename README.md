@@ -1,6 +1,6 @@
 ### Hi there 👋
 - :computer: I'm currently working as freelancer
-- :school: I'm currently learning : php
+- :school: I'm currently learning : PHP and WordPress 
 
 <b>Skills</b>
 
