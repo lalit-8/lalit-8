@@ -1,8 +1,9 @@
-### Hi there 👋
-- :computer: I'm currently working as freelancer
-- :school: I'm currently learning : PHP and WordPress 
+### Hi there 👋 I am Lalit
+- :computer: Working as freelancer
+- :school: Learning : PHP and WordPress 
 
-<b>Skills</b>
+<details>
+  <summary><b>Skills</b></summary>
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css)
@@ -23,6 +24,7 @@
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
+</details>
 <!--
 **lalit-8/lalit-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
